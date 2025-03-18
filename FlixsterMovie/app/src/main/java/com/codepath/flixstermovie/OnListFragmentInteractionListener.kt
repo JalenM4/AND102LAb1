@@ -1,4 +1,4 @@
-package com.sarcb.flixsterplus
+package com.codepath.flixstermovie
 /**
  * This interface is used by the the RecyclerViewAdapter to ensure
  * it has an appropriate Listener.

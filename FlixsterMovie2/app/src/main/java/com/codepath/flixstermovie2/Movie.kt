@@ -1,4 +1,4 @@
-package com.codepath.flixstermovie
+package com.codepath.flixstermovie2
 
 import com.google.gson.annotations.SerializedName
 
@@ -11,4 +11,5 @@ class Movie {
 
     @SerializedName("poster_path")
     var posterURL: String? = null
+
 }

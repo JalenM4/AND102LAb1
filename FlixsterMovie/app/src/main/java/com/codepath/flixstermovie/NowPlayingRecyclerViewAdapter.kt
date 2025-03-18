@@ -1,4 +1,4 @@
-package com.sarcb.flixsterplus
+package com.codepath.flixstermovie
 
 import android.view.LayoutInflater
 import android.view.View

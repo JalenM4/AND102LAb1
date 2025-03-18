@@ -1,4 +1,4 @@
-package com.sarcb.flixsterplus
+package com.codepath.flixstermovie
 
 import android.os.Bundle
 import android.util.Log
