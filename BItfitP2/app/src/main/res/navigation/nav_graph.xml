@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/logFragment">
+
+    <fragment
+        android:id="@+id/logFragment"
+        android:name="com.codepath.bitfitp2.LogFragment"
+        android:label="Log"
+        tools:layout="@layout/fragment_log" />
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.codepath.bitfitp2.DashboardFragment"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+</navigation>
